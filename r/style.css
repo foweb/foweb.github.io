@@ -6,7 +6,7 @@
 
 html, body {width: 100%; height: auto; font-family: "CJONLYONENEWbodyRegular", sans-serif; background-color: white; color: black;}
 
-#layout {max-width: 600px; margin: 0 auto; font-size: 18px; padding: 0 5px; background: url("..r/background.png") repeat-y center;}
+#layout {max-width: 600px; margin: 0 auto; font-size: 18px; padding: 0 5px; background: url("../r/background.png") repeat-y center;}
 #layout:after,
 #layout:before {content: " "; display: table;}
 #layout #logo {position: relative;}
