@@ -18,19 +18,19 @@ h1 {text-align: center; border-bottom: 1px solid lightgray; line-height: 60px; m
 
 #layout #main #map {position: relative; text-align: right;}
 #korea {width: 90%;}
-#ds {position: absolute; top: 14%; left: 26%; transform: scale(0.9); transition: transform 0.3s; width: 35%;}
+#ds {position: absolute; top: 14%; left: 26%; transform: scale(0.9); transition: transform 0.3s; width: 38.5%;}
 #ds:hover {transform: scale(1); cursor: pointer;}
-#ns {position: absolute; top: 27%; left: -1%; transform: scale(0.9); transition: transform 0.3s; width: 35%;}
+#ns {position: absolute; top: 27%; left: -1%; transform: scale(0.9); transition: transform 0.3s; width: 32.1%;}
 #ns:hover {transform: scale(1); cursor: pointer;}
-#gn {position: absolute; top: 223px; left: 165px; transform: scale(0.9); transition: transform 0.3s; width: 35%;}
+#gn {position: absolute; top: 223px; left: 165px; transform: scale(0.9); transition: transform 0.3s; width: 32.3%;}
 #gn:hover {transform: scale(1); cursor: pointer;}
-#jb {position: absolute; top: 459px; left: 237px; transform: scale(0.9); transition: transform 0.3s; width: 35%;}
+#jb {position: absolute; top: 459px; left: 237px; transform: scale(0.9); transition: transform 0.3s; width: 28.6%;}
 #jb:hover {transform: scale(1); cursor: pointer;}
-#gj {position: absolute; top: 682px; left: 53px; transform: scale(0.9); transition: transform 0.3s; width: 35%;}
+#gj {position: absolute; top: 682px; left: 53px; transform: scale(0.9); transition: transform 0.3s; width: 26.3%;}
 #gj:hover {transform: scale(1); cursor: pointer;}
-#dg {position: absolute; top: 539px; left: 235px; transform: scale(0.9); transition: transform 0.3s; width: 35%;}
+#dg {position: absolute; top: 539px; left: 235px; transform: scale(0.9); transition: transform 0.3s; width: 44.8%;}
 #dg:hover {transform: scale(1); cursor: pointer;}
-#bs {position: absolute; top: 657px; left: 324px; transform: scale(0.9); transition: transform 0.3s; width: 35%;}
+#bs {position: absolute; top: 657px; left: 324px; transform: scale(0.9); transition: transform 0.3s; width: 34.7%;}
 #bs:hover {transform: scale(1); cursor: pointer;}
 
 #layout #footer #msg {text-align: center; background-color: gray; color: white; padding: 60px 0;}
