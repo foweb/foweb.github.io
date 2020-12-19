@@ -20,7 +20,7 @@ h1 {text-align: center; border-bottom: 1px solid lightgray; line-height: 60px; m
 #korea {width: 90%;}
 #ds {position: absolute; top: 14%; left: 26%; transform: scale(0.9); transition: transform 0.3s; width: 35%;}
 #ds:hover {transform: scale(1); cursor: pointer;}
-#ns {position: absolute; top: 243px; left: -49px; transform: scale(0.9); transition: transform 0.3s; width: 35%;}
+#ns {position: absolute; top: 27%; left: -1%; transform: scale(0.9); transition: transform 0.3s; width: 35%;}
 #ns:hover {transform: scale(1); cursor: pointer;}
 #gn {position: absolute; top: 223px; left: 165px; transform: scale(0.9); transition: transform 0.3s; width: 35%;}
 #gn:hover {transform: scale(1); cursor: pointer;}
