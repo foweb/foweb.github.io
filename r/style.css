@@ -17,6 +17,7 @@ html, body {width: 100%; height: auto; font-family: "CJONLYONENEWbodyRegular", s
 h1 {text-align: center; border-bottom: 1px solid lightgray; line-height: 60px; margin-top: 60px;}
 
 #layout #main #map {position: relative;}
+#korea {width: 100%;}
 #ds {position: absolute; top: 158px; left: 116px; transform: scale(0.9); transition: transform 0.3s;}
 #ds:hover {transform: scale(1); cursor: pointer;}
 #ns {position: absolute; top: 276px; left: -18px; transform: scale(0.9); transition: transform 0.3s;}
