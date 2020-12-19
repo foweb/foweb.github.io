@@ -1,6 +1,6 @@
 <div id="map">
   <img id="korea" src="../r/map.png"/>
   {% for x in site.fo %}
-    <img id="{{ x }}" src="../r/map-{{ x }}.png"/>  
+    <a href="./{{ x }}"><img id="{{ x }}" src="../r/map-{{ x }}.png"/></a>
   {% endfor %}
 </div>
