@@ -17,13 +17,19 @@ html, body {width: 100%; height: auto; font-family: "CJONLYONENEWbodyRegular", s
 h1 {text-align: center; border-bottom: 1px solid lightgray; line-height: 60px; margin-top: 60px;}
 
 #layout #main #map {position: relative;}
-#ds {position: absolute; top: 158px; left: 116px; transform: scale(0.9); tansition: transform 0.5s;}
-#ds:hover {transform: scale(1);}
-#ns {position: absolute;}
-#gn {position: absolute;}
-#jb {position: absolute;}
-#gj {position: absolute;}
-#dg {position: absolute;}
-#bs {position: absolute;}
+#ds {position: absolute; top: 158px; left: 116px; transform: scale(0.9); tansition: transform 0.3s;}
+#ds:hover {transform: scale(1); cursor: pointer;}
+#ns {position: absolute; top: 158px; left: 116px; transform: scale(0.9); tansition: transform 0.3s;}
+#ns:hover {transform: scale(1); cursor: pointer;}
+#gn {position: absolute; top: 158px; left: 116px; transform: scale(0.9); tansition: transform 0.3s;}
+#gn:hover {transform: scale(1); cursor: pointer;}
+#jb {position: absolute; top: 158px; left: 116px; transform: scale(0.9); tansition: transform 0.3s;}
+#jb:hover {transform: scale(1); cursor: pointer;}
+#gj {position: absolute; top: 158px; left: 116px; transform: scale(0.9); tansition: transform 0.3s;}
+#gj:hover {transform: scale(1); cursor: pointer;}
+#dg {position: absolute; top: 158px; left: 116px; transform: scale(0.9); tansition: transform 0.3s;}
+#dg:hover {transform: scale(1); cursor: pointer;}
+#bs {position: absolute; top: 158px; left: 116px; transform: scale(0.9); tansition: transform 0.3s;}
+#bs:hover {transform: scale(1); cursor: pointer;}
 
 #layout #footer #msg {text-align: center; background-color: gray; color: white; padding: 60px 0;}
