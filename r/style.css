@@ -18,19 +18,19 @@ h1 {text-align: center; border-bottom: 1px solid lightgray; line-height: 60px; m
 
 #layout #main #map {position: relative;}
 #korea {width: 100%;}
-#ds {position: absolute; top: 158px; left: 116px; transform: scale(0.9); transition: transform 0.3s;}
+#ds {position: absolute; top: 116px; left: 99px; transform: scale(0.9); transition: transform 0.3s;}
 #ds:hover {transform: scale(1); cursor: pointer;}
-#ns {position: absolute; top: 276px; left: -18px; transform: scale(0.9); transition: transform 0.3s;}
+#ns {position: absolute; top: 243px; left: -49px; transform: scale(0.9); transition: transform 0.3s;}
 #ns:hover {transform: scale(1); cursor: pointer;}
-#gn {position: absolute; top: 251px; left: 185px; transform: scale(0.9); transition: transform 0.3s;}
+#gn {position: absolute; top: 223px; left: 165px; transform: scale(0.9); transition: transform 0.3s;}
 #gn:hover {transform: scale(1); cursor: pointer;}
-#jb {position: absolute; top: 526px; left: 252px; transform: scale(0.9); transition: transform 0.3s;}
+#jb {position: absolute; top: 459px; left: 237px; transform: scale(0.9); transition: transform 0.3s;}
 #jb:hover {transform: scale(1); cursor: pointer;}
-#gj {position: absolute; top: 801px; left: 62px; transform: scale(0.9); transition: transform 0.3s;}
+#gj {position: absolute; top: 682px; left: 53px; transform: scale(0.9); transition: transform 0.3s;}
 #gj:hover {transform: scale(1); cursor: pointer;}
-#dg {position: absolute; top: 597px; left: 305px; transform: scale(0.9); transition: transform 0.3s;}
+#dg {position: absolute; top: 539px; left: 235px; transform: scale(0.9); transition: transform 0.3s;}
 #dg:hover {transform: scale(1); cursor: pointer;}
-#bs {position: absolute; top: 756px; left: 384px; transform: scale(0.9); transition: transform 0.3s;}
+#bs {position: absolute; top: 657px; left: 324px; transform: scale(0.9); transition: transform 0.3s;}
 #bs:hover {transform: scale(1); cursor: pointer;}
 
 #layout #footer #msg {text-align: center; background-color: gray; color: white; padding: 60px 0;}
