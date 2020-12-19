@@ -17,7 +17,12 @@ html, body {width: 100%; height: auto; font-family: "CJONLYONENEWbodyRegular", s
 h1 {text-align: center; border-bottom: 1px solid lightgray; line-height: 60px; margin-top: 60px;}
 
 #layout #main #map {position: relative;}
-#layout #main 
-
+#ds {position: absoulte;}
+#ns {position: absoulte;}
+#gn {position: absoulte;}
+#jb {position: absoulte;}
+#gj {position: absoulte;}
+#dg {position: absoulte;}
+#bs {position: absoulte;}
 
 #layout #footer #msg {text-align: center; background-color: gray; color: white; padding: 60px 0;}
