@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: "프레시원"
+---
 
-You can use the [editor on GitHub](https://github.com/foweb/foweb.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# 프레시원 소개
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+프레시원은 대한민국의 식자재유통산업 발전을 위하여, 지역의 우수 유통회사와 국내 No. 1 식자재유통회사인 CJ프레시웨이가 함께 투자해 만든 상생 Business Model 입니다.
 
-### Markdown
+합리적 가격의 상품과 편리한 주문/배송 시스템으로 차별화 서비스를 제공하여, 식당 운영에 필요한 최적의 솔루션을 제공해 드립니다.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 가까운 프레시원 웹사이트 방문
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/foweb/foweb.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+아래 그림에서 가장 가까운 프레시원 센터를 클릭해보세요.
