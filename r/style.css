@@ -6,9 +6,12 @@
 
 html, body {width: 100%; height: auto; font-family: "CJONLYONENEWbodyRegular", sans-serif;}
 
-#layout {max-width: 600px; margin: 0 auto; font-size: 18px;}
+#layout {max-width: 600px; margin: 0 auto; font-size: 18px; background-color: gray; color: white;}
+#layout:after,
+#layout:before {content: " "; display: table;}
 #layout #logo {position: relative;}
 #layout #logo img {width: 100%; height: auto;}
 #layout #logo #fo-name {position: absolute; top: 378px; left: 0; right: 0; margin: auto; text-align: center; font-weight: bold; color: white;}
+#layout #main {background-color: white; color: black;}
 
 h1 {text-align: center; border-bottom: 1px solid lightgray; line-height: 60px; margin-top: 60px;}
