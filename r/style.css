@@ -4,9 +4,9 @@
 	src: url(../r/CJONLYONENEWbodyRegular.woff) format('woff');
 }
 
-html, body {width: 100%; height: auto; font-family: "CJONLYONENEWbodyRegular", sans-serif; background-color: white; color: black;}
+html, body {width: 100%; height: auto; font-family: "CJONLYONENEWbodyRegular", sans-serif; background-color: #fafafa; color: black;}
 
-#layout {max-width: 600px; margin: 0 auto; font-size: 18px; padding: 0 5px;}
+#layout {max-width: 600px; margin: 0 auto; font-size: 18px; padding: 0 5px; background-color: white;}
 #layout:after,
 #layout:before {content: " "; display: table;}
 #layout #logo {position: relative;}
