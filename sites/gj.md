@@ -9,8 +9,6 @@ image: https://via.placeholder.com/600x800
 
 광주 본점 : 광주 광산구 하남산단9번로 187
 
-목포 분점 : 전남 목포시 석현로45번길 6
-
 # 공시 자료
 
 {% if page.image %}
