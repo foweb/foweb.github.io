@@ -2,7 +2,7 @@
 layout: default
 title: "프레시원부산"
 permalink: /bs
-image: https://via.placeholder.com/600x800
+image: /img/bs.png
 ---
 
 # {{ page.title }} 소개
