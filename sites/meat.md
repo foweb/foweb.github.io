@@ -2,7 +2,7 @@
 layout: default
 title: "프레시원미트"
 permalink: /meat
-image: https://via.placeholder.com/600x800
+image: img/meat.png
 ---
 
 # {{ page.title }} 소개
