@@ -2,7 +2,7 @@
 layout: default
 title: "형제푸드"
 permalink: /hjfood
-image: https://via.placeholder.com/600x800
+image: img/hjfood.png
 ---
 
 # {{ page.title }} 소개
