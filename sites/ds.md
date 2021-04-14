@@ -2,7 +2,7 @@
 layout: default
 title: "프레시원동서울"
 permalink: /ds
-image: https://via.placeholder.com/600x800
+image: /img/ds.png
 ---
 
 # {{ page.title }} 소개
