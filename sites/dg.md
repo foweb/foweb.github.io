@@ -2,7 +2,7 @@
 layout: default
 title: "프레시원대구경북"
 permalink: /dg
-image: https://via.placeholder.com/600x800
+image: /img/dg.png
 ---
 
 # {{ page.title }} 소개
