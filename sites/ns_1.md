@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "프레시원남서울"
-permalink: /ns
+permalink: /ns_1
 image: https://via.placeholder.com/600x800
 ---
 
