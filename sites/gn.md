@@ -2,7 +2,7 @@
 layout: default
 title: "프레시원강남"
 permalink: /gn
-image: https://via.placeholder.com/600x800
+image: img/gn.png
 ---
 
 # {{ page.title }} 소개
