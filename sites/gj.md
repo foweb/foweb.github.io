@@ -2,7 +2,7 @@
 layout: default
 title: "프레시원광주"
 permalink: /gj
-image: https://via.placeholder.com/600x800
+image: /img/gj.png
 ---
 
 # {{ page.title }} 소개
