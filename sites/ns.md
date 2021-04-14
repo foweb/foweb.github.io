@@ -2,8 +2,8 @@
 layout: default
 title: "프레시원동서울/남서울"
 permalink: /ns
-image1: https://via.placeholder.com/600x800
-image2: https://via.placeholder.com/600x800
+image1: img/ds.png
+image2: img/ns.png
 ---
 
 # {{ page.title }} 소개
@@ -17,6 +17,8 @@ image2: https://via.placeholder.com/600x800
 양주 분점 : 경기 양주시 평화로1399번길 39
 
 춘천 분점 : 강원 춘천시 솟발1길 4-25
+
+&nbsp;
 
 프레시원 남서울
 
