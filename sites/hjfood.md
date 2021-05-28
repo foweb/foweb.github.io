@@ -12,6 +12,7 @@ image: img/hjfood.png
 
 # 공시 자료
 
+ 
 {% if page.image0 %}
 ![그림01]({{ page.image0 }})
 -----------------------------------
