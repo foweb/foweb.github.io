@@ -14,11 +14,13 @@ image: img/hjfood.png
 # 공시 자료
 
 {% if page.image1 %}
+<p style="text-align: right;">게시일: 2021-5-31 12:39</p>
 ![그림00]({{ page.image1 }})
 -----------------------------------
 {% endif %}
  
 {% if page.image0 %}
+<p style="text-align: right;">게시일: 2021-5-28 15:15</p>
 ![그림01]({{ page.image0 }})
 -----------------------------------
 {% endif %}
