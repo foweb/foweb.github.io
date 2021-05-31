@@ -2,6 +2,7 @@
 layout: default
 title: "형제푸드"
 permalink: /hjfood
+image1: img/hjfood_info_210531.png
 image0: img/hjfood_info_210528.png
 image: img/hjfood.png
 ---
@@ -12,6 +13,10 @@ image: img/hjfood.png
 
 # 공시 자료
 
+{% if page.image1 %}
+![그림00]({{ page.image1 }})
+-----------------------------------
+{% endif %}
  
 {% if page.image0 %}
 ![그림01]({{ page.image0 }})
@@ -19,5 +24,5 @@ image: img/hjfood.png
 {% endif %}
 
 {% if page.image %}
-![그림00]({{ page.image }})
+![그림02]({{ page.image }})
 {% endif %}
