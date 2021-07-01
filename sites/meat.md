@@ -2,8 +2,8 @@
 layout: default
 title: "프레시원미트"
 permalink: /meat
-image0: img/meat_info_210630.png
-image1: img/meat_info_210701.png
+image0: img/meat_info_210630_.png
+image1: img/meat_info_210701_.png
 image: img/meat.png
 ---
 
