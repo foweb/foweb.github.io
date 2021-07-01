@@ -16,16 +16,16 @@ image: img/meat.png
 대구 분점 : 대구 서구 국채보상로3길 25
 
 # 공시 자료
-
-{% if page.image0 %}
-<p style="text-align: right; font-size: 12px;">게시일: 2021-6-30 14:22</p>
-![그림00]({{ page.image1 }})
-<hr/>
-{% endif %}
  
 {% if page.image1 %}
 <p style="text-align: right; font-size: 12px;">게시일: 2021-7-01 08:57</p>
-![그림01]({{ page.image0 }})
+![그림01]({{ page.image1 }})
+<hr/>
+{% endif %}
+
+{% if page.image0 %}
+<p style="text-align: right; font-size: 12px;">게시일: 2021-6-30 14:22</p>
+![그림00]({{ page.image0 }})
 <hr/>
 {% endif %}
 
